@@ -1,0 +1,51 @@
+/* element selector  */
+li{
+    font-weight: 700px;
+    font-size: 32px;
+}
+/* class selector  */
+.html{
+    color: rgb(222,74,36);
+}
+.css{
+    color: blue;
+}
+.js{
+    color: hsl(60, 100%, 50%);
+}
+.tailwind{
+    color: skyblue;
+}
+/* id selector  */
+/* #html{
+    font-size: 32px;
+}
+#css{
+    font-size: 32px;
+}
+#js{
+    font-size: 32px;
+}
+#tailwind{
+    font-size: 32px;
+} */
+/* attribute selector  */
+[class]{
+    background-color: green;
+}
+[zahid]{
+    background-color: pink;
+}
+/* combinator selector  */
+/* or  */
+/* descendent selector  */
+/* ul p{
+    background-color: green;
+} */
+.web p{
+    background-color: red;
+}
+ /* pseudo selector /hover selector */
+h1:hover{
+    color: blue;
+}
