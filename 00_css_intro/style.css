@@ -1,0 +1,15 @@
+p{
+    color: teal;
+    font-size: 24px;
+    font-weight: 800;
+    /* text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: underline wavy; */
+    font-family: cursive;
+    text-align: center;
+    font-style: italic;
+
+}
+a{
+    text-decoration: none;
+}
