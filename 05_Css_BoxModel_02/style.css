@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+
+.one{
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    padding: 25px;
+    border: 4px solid teal;
+    margin: 10px;
+    border-radius: 50%;
+    overflow: hidden;
+
+}
+img{
+    width: 208%;
+    margin-top: 2px;
+    margin-left: -74px;
+}
+.two{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    padding: 25px;
+    border: 4px solid red;
+    margin: 10px;
+    border-radius: 50%;
+
+}
