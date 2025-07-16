@@ -1,0 +1,21 @@
+/* [alt="javascript roadmap"]{
+    border: 4px solid green;
+} */
+.css-image{
+    color:red;
+}
+[name]{
+    color: green;
+}
+#heading{
+    color:orangered;
+}
+.green_link{
+    font-weight:700;
+    text-decoration:none;
+    font-size:18px;
+    font-family:cursive;
+}
+.my-link{
+    border: 2px solid green;
+}
