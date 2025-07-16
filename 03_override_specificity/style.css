@@ -1,0 +1,19 @@
+/* specificity of inline css is 1000 */
+/* when we use important keyword it will be applied even on a element selector , the keyword !important will not increase the specificity of a selector it just applied  */
+/* NOTE: we have to avoid both these inline css and keyword !important  */
+#html{
+    background-color: deeppink;
+}
+.html{
+    background-color: blue;
+}
+li{
+    background-color: green;
+    color: aquamarine;
+}
+li{
+    background-color: red !important;
+}
+li{
+    background-color: bisque !important;
+}
