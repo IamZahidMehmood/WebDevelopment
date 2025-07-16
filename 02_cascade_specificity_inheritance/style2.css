@@ -1,0 +1,14 @@
+body{
+    color: greenyellow;
+}
+ /* text se related jo b properties hain wo lag bag inherit hoti hain  */
+ ul{
+    font-size: 32px;
+    font-weight: 900;
+    font-family: cursive;
+    font-style: italic;
+ }
+ button{
+    /* font-family: inherit;
+    font-size: inherit; */
+ }
