@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    min-height: 60vh;
+    background-color: lightblue;
+    display: grid;
+    grid-template-areas: 
+    'islamabad islamabad karachi lahore'
+    'islamabad islamabad karachi lahore'
+    'rawalpindi rawalpindi rawalpindi lahore'
+    ;
+
+}
+
+.box {
+ 
+    color: white;
+    font-size: 4rem;
+    padding: 1rem;
+
+}
+
+.box-1 {
+    background-color: green;
+    grid-area: islamabad;
+  
+}
+
+.box-2 {
+    background-color: blueviolet;
+    grid-area: karachi;
+
+}
+
+.box-3 {
+    background-color: blue;
+    grid-area: rawalpindi;
+}
+
+.box-4 {
+    background-color: brown;
+    grid-area: lahore;
+}
+
+.box-5 {
+    background-color: coral;
+
+}
+
+.box-6 {
+    background-color: darkblue;
+}
+
+.box-7 {
+    background-color: darkred;
+}
+
+.box-8 {
+    background-color: darkslategray;
+}
+
+.box-9 {
+    background-color: gray;
+}
+
+.box-10 {
+    background-color: navy;
+}
